@@ -1,2 +1,2 @@
-# learn-d3d
-I'm trying to learn DirectX.
+# DirectX Tutorials
+Code and notes as I try to learn DirectX.
